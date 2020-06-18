@@ -7,3 +7,5 @@ elif(n1==18):
     print("teenager")  
 else:
         print("cannot drive")
+        
+   //End     
